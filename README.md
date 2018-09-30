@@ -1,7 +1,7 @@
 # Hacktoberfest-2018
 A repository for beginners to create their first Pull Request. 
 
-Just open index.html and include your name and the link to your github profile in the li tags to make a connection with all other open enthusiasts like us.
+Just open index.html and include your name and the link to your github profile in the "li" tags to make a connection with all other open enthusiasts like us.
 
 Happy coding fellas!!
 
