@@ -13,3 +13,5 @@ All of your suggestions are welcome!!
 2.[Bhrigu Kansra](https://github.com/kinetickansra)
 
 Add your name below.
+
+[Ezekiel Oladejo](https://twitter.com/iamwebwiz)
