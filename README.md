@@ -10,7 +10,6 @@ Don't worry newcomers!! Everyone's PRs will be merged!! Make this your first ste
 All of your suggestions are welcome!!
 
 1.[Abhilash](http://iamabhilash.me)
-
 2.[Bhrigu Kansra](https://github.com/kinetickansra)
 
 Add your name below.
