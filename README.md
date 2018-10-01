@@ -14,6 +14,7 @@ All of your suggestions are welcome!!
 [Saurav Jaiswal](https://sauravjaiswalsj.github.io/)
 [derNiklaas](https://twitter.com/derNiklaas)
 [Ezekiel Oladejo](https://twitter.com/iamwebwiz)
+[Ezekiel Oladejo](https://github.com/Ejiro-Edwin)
 [Deepanshu Gandhi](#)
 
 
