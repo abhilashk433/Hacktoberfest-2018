@@ -13,7 +13,7 @@ Don't worry newcomers!! Everyone's PRs will be merged!! Make this your first ste
 
 All of your suggestions are welcome!!
 
-You can add references to some cool open source projects below and feel free to add more:
+You can add references to some cool open source projects below:
 ### 1. [Zulip](https://github.com/zulip) -
        Zulip is 100% open source software, built by a vibrant community of hundreds of developers from all around the world.
 ### 2. [FOSSASIA](https://github.com/fossasia) -
@@ -23,4 +23,5 @@ You can add references to some cool open source projects below and feel free to 
 ### 4. [Free code camp](https://github.com/freeCodeCamp/freeCodeCamp) -
        Learn to code for free with millions of other people around the world.
        
+
 
