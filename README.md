@@ -1,7 +1,11 @@
 # Hacktoberfest-2018
 A repository for beginners to create their first Pull Request. 
 
-Just open index.html and include your name and the link to your github profile in the "li" tags to make a connection with all other open enthusiasts like us.
+# Steps to Create your first PR and get Official Hacktoberfest merchandise for free.
+## Step 0: Create a [Github](https://github.com/) account for free [here](https://github.com/).
+## Step 1: Register at [Hactoberfest-2018](https://hacktoberfest.digitalocean.com/) using your github id.
+## Step 2: Star this [repo](https://github.com/abhilashk433/Hacktoberfest-2018) for future use.
+## Step 3: Just open "[index.html](https://github.com/abhilashk433/Hacktoberfest-2018/blob/master/index.html)" and include your name and the link to your github profile in the "[li](https://github.com/abhilashk433/Hacktoberfest-2018/blob/master/index.html)" tags to make a connection with all other open enthusiasts like us.
 
 Happy coding fellas!!
 
@@ -9,17 +13,15 @@ Don't worry newcomers!! Everyone's PRs will be merged!! Make this your first ste
 
 All of your suggestions are welcome!!
 
-# Add your name below.
-[Abhilash](http://iamabhilash.me)
-[Saurav Jaiswal](https://sauravjaiswalsj.github.io/)
-[derNiklaas](https://twitter.com/derNiklaas)
-[Ezekiel Oladejo](https://twitter.com/iamwebwiz)
-[Deepanshu Gandhi](#)
-[Harry Angelo Soer](https://twitter.com/harrysoer)
-
-
-
-
-
+You can add references to some cool open source projects below and feel free to add more:
+### 1. [Zulip](https://github.com/zulip) -
+       Zulip is 100% open source software, built by a vibrant community of hundreds of developers from all around the world.
+### 2. [FOSSASIA](https://github.com/fossasia) -
+       Developing Open Source Software and Hardware to improve people's lives.
+### 3. [MOZILLA](https://github.com/mozilla) -
+       This technology could fall into the right hands. Mozilla has 30 repositories available. Follow their code on GitHub.
+### 4. [Free code camp](https://github.com/freeCodeCamp/freeCodeCamp) -
+       Learn to code for free with millions of other people around the world.
+       
 
 
