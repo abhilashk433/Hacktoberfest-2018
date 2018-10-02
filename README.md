@@ -24,7 +24,8 @@ You can add references to some cool open source projects below:
        Learn to code for free with millions of other people around the world.
 ### 5. [Data Structures And Algorithms Hacktoberfest18](https://github.com/kvaluruk/Data-Structures-And-Algorithms-Hacktoberfest18) -
        List of data structures and algorithms. Feel free to contribute under Hacktoberfest '18!
-       
+### 6. [24 Pull Requests](https://24pullrequests.com/) -
+       "Send 24 pull requests between December 1st and December 24th", encouraging developers to give back to open source with little gifts of code throughout December.       
        
 
 
