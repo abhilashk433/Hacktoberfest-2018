@@ -22,6 +22,7 @@ You can add references to some cool open source projects below:
        This technology could fall into the right hands. Mozilla has 30 repositories available. Follow their code on GitHub.
 ### 4. [Free code camp](https://github.com/freeCodeCamp/freeCodeCamp) -
        Learn to code for free with millions of other people around the world.
-       
+### 5. [RocketChat](https://rocket.chat/) -
+       An Open Source Slack Alternative
 
 
