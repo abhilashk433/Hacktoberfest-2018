@@ -22,6 +22,11 @@ You can add references to some cool open source projects below:
        This technology could fall into the right hands. Mozilla has 30 repositories available. Follow their code on GitHub.
 ### 4. [Free code camp](https://github.com/freeCodeCamp/freeCodeCamp) -
        Learn to code for free with millions of other people around the world.
+### 5. [elementary](https://github.com/elementary) -
+       A fast and open replacement for Windows and macOS.
+### 6. [GNOME](https://github.com/GNOME) -
+       GNOME is a desktop environment composed of free and open-source software that runs on Linux and BSD derivatives.
+
        
 
 
