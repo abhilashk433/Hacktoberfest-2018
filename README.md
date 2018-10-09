@@ -11,7 +11,7 @@ Happy coding fellas!!
 
 Don't worry newcomers!! Everyone's PRs will be merged!! Make this your first step to development and open source. Get the confidence you require!!
 
-All of your suggestions are welcome!!
+All of your suggestions are welcome!!//comment added
 
 You can add references to some cool open source projects below:
 ### 1. [Zulip](https://github.com/zulip) -
