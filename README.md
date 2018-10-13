@@ -25,7 +25,7 @@ You can add references to some cool open source projects below:
 ### 5. [Data Structures And Algorithms Hacktoberfest18](https://github.com/kvaluruk/Data-Structures-And-Algorithms-Hacktoberfest18) -
        List of data structures and algorithms. Feel free to contribute under Hacktoberfest '18!
 ### 5. [Arduino](https://github.com/arduino/Arduino) -
-       Arduino is an open-source physical computing platform based on a simple I/O board and a development environment that implements the        Processing/Wiring language.
+       Arduino is an open-source physical computing platform based on a simple I/O board and a development environment that implements the Processing/Wiring language.
        
        
 
