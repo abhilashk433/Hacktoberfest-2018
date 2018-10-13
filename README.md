@@ -20,10 +20,12 @@ You can add references to some cool open source projects below:
        Developing Open Source Software and Hardware to improve people's lives.
 ### 3. [MOZILLA](https://github.com/mozilla) -
        This technology could fall into the right hands. Mozilla has 30 repositories available. Follow their code on GitHub.
-### 4. [Free code camp](https://github.com/freeCodeCamp/freeCodeCamp) -
+### 4. [Freecodecamp](https://github.com/freeCodeCamp/freeCodeCamp) -
        Learn to code for free with millions of other people around the world.
 ### 5. [Data Structures And Algorithms Hacktoberfest18](https://github.com/kvaluruk/Data-Structures-And-Algorithms-Hacktoberfest18) -
        List of data structures and algorithms. Feel free to contribute under Hacktoberfest '18!
+### 5. [Arduino](https://github.com/arduino/Arduino) -
+       Arduino is an open-source physical computing platform based on a simple I/O board and a development environment that implements the        Processing/Wiring language.
        
        
 
