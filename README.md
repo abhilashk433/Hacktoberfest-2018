@@ -22,7 +22,9 @@ You can add references to some cool open source projects below:
        This technology could fall into the right hands. Mozilla has 30 repositories available. Follow their code on GitHub.
 ### 4. [Free code camp](https://github.com/freeCodeCamp/freeCodeCamp) -
        Learn to code for free with millions of other people around the world.
-### 5. [Data Structures And Algorithms Hacktoberfest18](https://github.com/kvaluruk/Data-Structures-And-Algorithms-Hacktoberfest18) -
+### 5. [ipython](https://github.com/ipython/ipython/issues/11309)
+       %%writefile can't handle white space in file path/filename.
+### 6. [Data Structures And Algorithms Hacktoberfest18](https://github.com/kvaluruk/Data-Structures-And-Algorithms-Hacktoberfest18) -
        List of data structures and algorithms. Feel free to contribute under Hacktoberfest '18!
        
        
