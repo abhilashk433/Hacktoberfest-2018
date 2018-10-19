@@ -1,5 +1,5 @@
 # Hacktoberfest-2018
-A repository for beginners to create their first Pull Request. 
+A repository for beginners to create their first Pull Request.
 
 # Steps to Create your first PR and get Official Hacktoberfest merchandise for free.
 ## Step 0: Create a [Github](https://github.com/) account for free [here](https://github.com/).
@@ -24,7 +24,5 @@ You can add references to some cool open source projects below:
        Learn to code for free with millions of other people around the world.
 ### 5. [Data Structures And Algorithms Hacktoberfest18](https://github.com/kvaluruk/Data-Structures-And-Algorithms-Hacktoberfest18) -
        List of data structures and algorithms. Feel free to contribute under Hacktoberfest '18!
-       
-       
-
-
+### 6. [Hacktoberfest-Mathematics](https://github.com/BaReinhard/Hacktoberfest-Mathematics) -
+      Math is fun so let's make some scripts and or programs that use some of your favorite math formulas and functions.
