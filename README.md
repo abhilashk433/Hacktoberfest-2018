@@ -25,6 +25,9 @@ You can add references to some cool open source projects below:
 ### 5. [Data Structures And Algorithms Hacktoberfest18](https://github.com/kvaluruk/Data-Structures-And-Algorithms-Hacktoberfest18) -
        List of data structures and algorithms. Feel free to contribute under Hacktoberfest '18!
        
+#   *NEW BEGINNER PROJECTS ARE AS FOLLOWS-:
+    [THE MOST AMAZING PROJECT.](https://parthpandyappp.github.io/)
+       
        
 
 
