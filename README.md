@@ -28,4 +28,4 @@ You can add references to some cool open source projects below:
 ### 6. [Lingonsaft](https://github.com/lingonsaft/hacktoberfest) -
        This repository is dedicated to help beginners step up and join hands with the open source community.
        
-## Finally, progess can be checked at "[Hacktoberfest-status](https://hacktoberfest.digitalocean.com/)".
+## Finally, progess can be checked at [Hacktoberfest-status](https://hacktoberfest.digitalocean.com/).
