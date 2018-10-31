@@ -1,11 +1,13 @@
 # Hacktoberfest-2018
 A repository for beginners to create their first Pull Request. 
 
-# Steps to Create your first PR and get Official Hacktoberfest merchandise for free.
+# Steps to Create your first PR and get an Official Hacktoberfest Merchandise and swags for free!
 ## Step 0: Create a [Github](https://github.com/) account for free [here](https://github.com/).
-## Step 1: Register at [Hactoberfest-2018](https://hacktoberfest.digitalocean.com/) using your github id.
+## Step 1: Register yourself at [Hactoberfest-2018](https://hacktoberfest.digitalocean.com/) using your Github Id.
 ## Step 2: Star this [repo](https://github.com/abhilashk433/Hacktoberfest-2018) and share it with your friends.
 ## Step 3: Just open "[index.html](https://github.com/abhilashk433/Hacktoberfest-2018/blob/master/index.html)" and include your name and the link to your github profile in the "[li](https://github.com/abhilashk433/Hacktoberfest-2018/blob/master/index.html)" tags to make a connection with all other open enthusiasts like us.
+
+## Step 4: Submitted the PR? Great! Let's brag about it on twitter! [Click Here to tweet](https://ctt.ac/F4l9B)
 
 Happy coding fellas!!
 
