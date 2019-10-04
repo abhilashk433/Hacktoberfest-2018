@@ -23,7 +23,7 @@ You can add references to some cool open source projects below:
 ### 4. [Free code camp](https://github.com/freeCodeCamp/freeCodeCamp) -
        Learn to code for free with millions of other people around the world.
 ### 5. [Data Structures And Algorithms Hacktoberfest18](https://github.com/kvaluruk/Data-Structures-And-Algorithms-Hacktoberfest18) -
-       List of data structures and algorithms. Feel free to contribute under Hacktoberfest '18!
+       List of data structures and algorithms. Feel free to contribute under Hacktoberfest 19!
        
        
 
