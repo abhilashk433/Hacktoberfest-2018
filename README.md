@@ -17,6 +17,7 @@ You can add references to some cool open source projects below:
 ### 1. [Zulip](https://github.com/zulip) -
        Zulip is 100% open source software, built by a vibrant community of hundreds of developers from all around the world.
 ### 2. [FOSSASIA](https://github.com/fossasia) -
+       FOSSASIA is an organization developing Open Source software applications and Open Hardware together with a global community from its base in Asia. It is our goal to provide access to open technologies, science applications and knowledge that improve people's lives.
        Developing Open Source Software and Hardware to improve people's lives.
 ### 3. [MOZILLA](https://github.com/mozilla) -
        This technology could fall into the right hands. Mozilla has 30 repositories available. Follow their code on GitHub.
