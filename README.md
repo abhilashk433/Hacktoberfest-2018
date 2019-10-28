@@ -24,6 +24,8 @@ You can add references to some cool open source projects below:
        Learn to code for free with millions of other people around the world.
 ### 5. [Data Structures And Algorithms Hacktoberfest18](https://github.com/kvaluruk/Data-Structures-And-Algorithms-Hacktoberfest18) -
        List of data structures and algorithms. Feel free to contribute under Hacktoberfest '18!
+### 6. [Tic-Tac-Toe(Android app)](https://github.com/ABHISHEK-AMRUTE/Tic_Tac_Toe) -
+      Build immersive Tic tac toe game(difficulty low).
        
        
 
