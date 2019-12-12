@@ -24,6 +24,11 @@ You can add references to some cool open source projects below:
        Learn to code for free with millions of other people around the world.
 ### 5. [Data Structures And Algorithms Hacktoberfest18](https://github.com/kvaluruk/Data-Structures-And-Algorithms-Hacktoberfest18) -
        List of data structures and algorithms. Feel free to contribute under Hacktoberfest '18!
+### 6. [Rithm School](https://github.com/rithmschool) -
+       [Become an exceptional developer in 17 weeks.](https://www.rithmschool.com)
+
+       
+       
        
        
 
