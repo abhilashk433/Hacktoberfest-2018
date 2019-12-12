@@ -7,6 +7,7 @@ A repository for beginners to create their first Pull Request.
 ## Step 2: Star this [repo](https://github.com/abhilashk433/Hacktoberfest-2018) and share it with your friends.
 ## Step 3: Just open "[index.html](https://github.com/abhilashk433/Hacktoberfest-2018/blob/master/index.html)" and include your name and the link to your github profile in the "[li](https://github.com/abhilashk433/Hacktoberfest-2018/blob/master/index.html)" tags to make a connection with all other open enthusiasts like us.
 
+
 Happy coding fellas!!
 
 Don't worry newcomers!! Everyone's PRs will be merged!! Make this your first step to development and open source. Get the confidence you require!!
@@ -24,7 +25,7 @@ You can add references to some cool open source projects below:
        Learn to code for free with millions of other people around the world.
 ### 5. [Data Structures And Algorithms Hacktoberfest18](https://github.com/kvaluruk/Data-Structures-And-Algorithms-Hacktoberfest18) -
        List of data structures and algorithms. Feel free to contribute under Hacktoberfest '18!
+### 6. [Lingonsaft](https://github.com/lingonsaft/hacktoberfest) -
+       This repository is dedicated to help beginners step up and join hands with the open source community.
        
-       
-
-
+## Finally, progess can be checked at [Hacktoberfest-status](https://hacktoberfest.digitalocean.com/).
