@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>List Makanan</title>
+</head>
+<body background="floor-tile.png">
+	<h1>Makanan tradisional</h1>
+	<ol>
+
+		<img src="mieaceh.jpg" width="300px" height="150px">
+		<li><h3>Mie Aceh</h3></li>
+		<p>Mie Aceh merupakan mie pedas khas Aceh.Mie ini disajikan bersama sup kari yang gurih dan pedas.</p>
+		<br>
+
+		<img src="kareekameng.jpg" width="300px" height="150px">
+		<li><h3>Karee Kameng</h3></li>
+		<p>Karee kameng yaitu makanan tradisional khas Aceh. Makanan ini merupakan sajian paling favorit bagi warga Aceh.</p>
+		<br>
+
+		<img src="lempah.jpg" width="300px" height="150px">
+		<li><h3>Lempah Kuning</h3></li>
+		<p>Lempah kuning merupakan masakan paling populer di Bangka, baik dirumah makan, di warung , bahkan untuk menu sehari-hari.</p>
+		<br>
+
+		<img src="bikaambon.jpg" width="300px" height="150px">
+		<li><h3>Bika Ambon</h3></li>
+		<p>Bika Ambon merupakan makanan tradisional khas Medan, Sumatra Utara. Namun banyak orang yang mengira bahwa kue ini berasal dari Ambon, Ibukota Maluku. </p>
+		<br>
+
+		<img src="gado gado.jpg" width="300px" height="150px">
+		<li><h3>Gado Gado</h3></li>
+		<p>Gado-gado merupakan makanan tradisional Indonesia dari Betawi yang sangat populer dan mulai dikenal sejak abad ke-16.</p>
+	</ol>
+</body>
+</html>
