@@ -1,0 +1,108 @@
+/*author: rishav krishna(https://github.com/rishu22*/
+<html lang="en">
+    <head>
+        <meta charset="utf-8"/>
+        <title>List App</title>
+        <link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css" />
+<script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
+<script src="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js">
+         
+        </script>
+        
+        <meta name="viewport"  content="width=device-width,initial-scale=1, maximum-scale=1"/>
+        <style>
+            img.fullscreen{
+                
+                max-height: 100%;
+                max-width: 100%;
+            }
+        </style>
+    </head>
+    <body>
+        <div  data-role="page"id="photos">
+    <header data-role="header" class="ui-body-b ui-body">
+        <h1> List App</h1>
+        <a href="#" data-icon="home" >Home</a>
+        <a href="" data-icon="user">Login</a>
+         </header>
+        <article data-role="content">
+            <ul data-role="listview" data-filter="true">
+                <li>
+                    <a href="#german">
+                        <h1>German Shepherd</h1>
+                        <img src="german.jpg" alt="dog">
+                        <p>The German Shepherd is a breed of medium to large-sized working dog that originated in Germany</p>
+                    </a>
+                </li>
+                
+                <li>
+                    <a href="#leb">
+                        <h1>Lebradore</h1>
+                        <img src="leb.jpg" alt="dog">
+                        <p>The Labrador Retriever, also Labrador, is a type of retriever-gun dog.</p>
+                    </a>
+                </li>
+                
+                <li>
+                    <a href="#pub">
+                        <h1>Pub</h1>
+                        <img src="pub.jpg" alt="dog">
+                        <p>The Pug is a breed of dog with physically distinctive features of a wrinkly, short-muzzled face, and curled tail.</p>
+                    </a>
+                </li>
+            </ul>
+        </article> 
+   
+    
+    <footer data-role="footer" class="ui-body-b ui-body"> 
+        <nav data-role="navbar" data-position="fixed">
+            <ul>
+                <li><a href="#" data-icon="home">Home</a></li>
+                <li><a href="#" data-icon="grid">Photos</a></li>
+                <li><a href="#" data-icon="info">Info</a></li>
+            </ul>
+        </nav>
+    </footer>
+        </div><!---end of page--->
+        
+         <div  data-role="page" id="german">
+    <header data-role="header">
+        <h1> German Shepherd</h1>
+        <a href="#photos" data-icon="back" data-iconpos="notext">Back</a>
+        
+    </header>
+             <img src="german1.jpg"  class="fullscreen" alt="germasn picture">
+             <img src="german2.jpg"  class="fullscreen" alt="germasn picture">
+             <img src="german3.jpg"  class="fullscreen" alt="germasn picture">
+             <img src="german4.jpg"  class="fullscreen" alt="germasn picture">
+    
+        </div><!---end of page-->
+        
+            <div  data-role="page" id="leb">
+    <header data-role="header">
+        <h1> Lebradore</h1>
+        <a href="#photos" data-icon="back" data-iconpos="notext">Back</a>
+        
+    </header>
+    <img src="leb1.jpg"  class="fullscreen"alt="lebradore picture">
+                <img src="leb2.jpg"  class="fullscreen"alt="lebradore picture">
+                <img src="leb3.jpg"  class="fullscreen"alt="lebradore picture">
+                <img src="leb4.jpg"  class="fullscreen"alt="lebradore picture">
+    
+        </div><!---end of page-->
+        
+            <div  data-role="page" id="pub">
+    <header data-role="header">
+        <h1> Pug</h1>   
+        <a href="#photos" data-icon="back" data-iconpos="notext">Back</a>
+        
+    </header>
+                <img src="pub1.jpg" class="fullscreen"  alt="pug picture">
+                 <img src="pub2.jpg" class="fullscreen"  alt="pug picture">
+                 <img src="pub3.jpg" class="fullscreen"  alt="pug picture">
+                 <img src="pub4.jpg" class="fullscreen"  alt="pug picture">
+    
+        </div><!---end of page-->
+    
+    </body>
+</html>
